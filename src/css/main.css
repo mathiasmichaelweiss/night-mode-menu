@@ -1,5 +1,5 @@
 body {
-  background: #222A37;
+  background: #3a3a3a;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -27,7 +27,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   border-radius: 100rem;
-  background: #1D242F;
+  background: #2a2a2a;
   -webkit-transition: background .5s;
   transition: background .5s;
   -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -45,7 +45,7 @@ body {
   width: 10rem;
   height: 4.4rem;
   margin-left: 0.4rem;
-  background: #1D242F;
+  background: #2a2a2a;
   -webkit-transition: background .5s;
   transition: background .5s;
   -webkit-box-shadow: inset 0px -4px 4px rgba(0, 0, 0, 0.05), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -60,7 +60,7 @@ body {
   left: 0.3rem;
   width: 4rem;
   height: 4rem;
-  background: #1D242F;
+  background: #2a2a2a;
   -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
           box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 100%;
@@ -85,7 +85,7 @@ body {
   height: 4.4rem;
   margin-right: 1rem;
   border-radius: 100rem;
-  background: #1D242F;
+  background: #2a2a2a;
   -webkit-transition: background .5s;
   transition: background .5s;
   -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
